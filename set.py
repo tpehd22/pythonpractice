@@ -21,3 +21,7 @@ print(java.difference(python))
 # python 할 줄 아는 사람 추가
 python.add("김태호")
 print(python)
+
+#java를 잊어버림
+java.remove("양세형")
+print(java)
